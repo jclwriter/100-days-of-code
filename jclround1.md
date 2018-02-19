@@ -1,24 +1,24 @@
 # 100 Days Of Code - Jeff Lepage
 
-### Day 1: Febuary 10th, 2018
+### Day 1: Febuary 12th, 2018
 https://twitter.com/jlepagewriter/status/963313380827086848
 
-### Day 2: Febuary 11th, 2018
+### Day 2: Febuary 13th, 2018
 https://twitter.com/jlepagewriter/status/963674362510565376
 
-### Day 3: Febuary 12th, 2018
+### Day 3: Febuary 14th, 2018
 https://twitter.com/jlepagewriter/status/964081106763960320
 
-### Day 4: Febuary 13th, 2018
+### Day 4: Febuary 15th, 2018
 https://twitter.com/jlepagewriter/status/964458344231522305
 
-### Day 5: Febuary 14th, 2018
+### Day 5: Febuary 16th, 2018
 https://twitter.com/jlepagewriter/status/964821508148178944
 
-### Day 6: Febuary 15th, 2018
+### Day 6: Febuary 17th, 2018
 https://twitter.com/jlepagewriter/status/965188390969683968
 
-### Day 7: Febuary 16th, 2018
+### Day 7: Febuary 18th, 2018
 
 I see to get lost in time when I am coding, or writing for that matter. I have been known to code into the wee hours of the morning, especially as of late, with this project that I feel very strongly for.
 
