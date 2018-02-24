@@ -44,3 +44,19 @@ And, yes, you guessed it, I took it another step. I gave the monster an attack f
 While coding all of this, I thought up a cool mini-game.
 
 Want to know what it is? I bet you do, but that will be for another day. :)
+
+### Day 9, Febuary 20th, 2018 ###
+
+https://twitter.com/jlepagewriter/status/966253464526340096
+
+### Day 10 Febuary 21st. 2018 ###
+
+https://twitter.com/jlepagewriter/status/966680630191779840
+
+### Day 11 Febuary 22nd, 2018 ###
+
+https://twitter.com/jlepagewriter/status/966917602747404288
+
+### Day 12 Febuary 23rd, 2018 ###
+
+https://twitter.com/jlepagewriter/status/967274014166036480
